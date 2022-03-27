@@ -64,7 +64,7 @@ The following **additional** features are implemented:
 
 ## Interview Recording URL Link
 
-[https://youtu.be/9oZOMb3eMLM](your-link-here)
+https://youtu.be/9oZOMb3eMLM
 
 
 ## License
