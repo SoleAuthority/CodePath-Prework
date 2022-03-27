@@ -6,7 +6,7 @@ Submitted by: **Pierce Moran**
 
 Time spent: **8** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/codepath-prework-project-pierce?path=README.md%3A1%3A0
+Link to project: https://glitch.com/edit/#!/codepath-prework-project-pierce
 Link to game: https://codepath-prework-project-pierce.glitch.me
 
 ## Required Functionality
